@@ -1,6 +1,19 @@
 # keep updating⏳- open positions in reverse chronological order by posting date
 
 ## Group leaders 🚀
+🇺🇸 [Stanford: Vascular Neurosurgeon at the rank of Assistant, Associate or Full Professor] (https://jobs.sciencecareers.org/job/657591/vascular-neurosurgeon-at-the-rank-of-assistant-associate-or-full-professor-/?TrackID=364650&BatchID=6056&JobAlertId=418793&cmpid=JBE_TL_20240508_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240508_applynow_job1)
+
+🇬🇧 [Early Stage Researcher University of Birmingham - School of Biomedical Sciences, College of Medical and Dental Sciences] (https://www.jobs.ac.uk/job/DHF514/early-stage-researcher?uuid=88bb48e6-feb8-11ee-84bd-027e9b1da9c1&campaign=jbe20240420&source=jbe)
+
+🇺🇸 [Assistant/Associate Professor, New York University Grossman School of Medicine] (https://www.nature.com/naturecareers/job/12817728/assistant-associate-professor-new-york-university-grossman-school-of-medicine/?TrackID=29551&BatchID=434&JobAlertId=38023&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
+
+🇺🇸 [U Chicago Instructional Professor (Open Rank) in Biochemistry] (https://jobs.sciencecareers.org/job/657576/instructional-professor-open-rank-in-biochemistry-/?TrackID=364650&BatchID=6055&JobAlertId=418793&cmpid=JBE_TL_20240507_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240507_jobtitle_job1)
+
+🇺🇸 [Rutgers Faculty Positions (All Ranks) -Tuberculosis, HIV, & Data Science Research] (https://www.nature.com/naturecareers/job/12817480/faculty-positions-all-ranks-tuberculosis-hiv-and-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job2)
+
+🇺🇸 [Rutgers Faculty Positions (All Ranks) - Data Science Research] (https://www.nature.com/naturecareers/job/12817481/faculty-positions-all-ranks-data-science-research/?TrackID=29551&BatchID=428&JobAlertId=38023&cmpid=JBE_TL_20240501_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240501_applynow_job1)
+
+🇺🇸 [Rutgers Medical School tenure-track faculty all ranks in immunology, infectious disease and inflammation] (https://jobs.sciencecareers.org/job/657423/tenure-track-faculty-all-ranks/?TrackID=364650&BatchID=6048&JobAlertId=418793&cmpid=JBE_TL_20240430_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240430_applynow_job1)
 
 🇭🇰[HKU Ecology and Diversity Open Rank professor](https://www.nature.com/naturecareers/job/12816470/assistant-professor-associate-professor-professor-in-ecology-and-biodiversity/?TrackID=29551&BatchID=406&JobAlertId=38023&cmpid=JBE_TL_20240409_jobtitle&utm_source=jbe&utm_medium=email&utm_campaign=JBE_TL_20240409_applynow_job2)
 
@@ -247,6 +260,8 @@
 🇬🇧[4 Scientists at Ensocell](https://ensocell.bamboohr.com/careers/)
 
 ## Postdocs 🪐
+
+🇬🇧 [Cambridge U King's College Non-Stipendiary Research Fellowship in Biological and Medical Sciences] (https://www.kings.cam.ac.uk/about/work-at-kings/non-stipendiary-research-fellowship-biological-and-medical-sciences) 
 
 🇬🇧[Nodal and Fgf/Erk signalling postdoc at Crick institute](https://crick.wd3.myworkdayjobs.com/External/job/London/Postdoctoral-Fellow--Hill-lab_R1365-1)
 
